@@ -19,19 +19,25 @@ Here are some ideas to get you started:
 <br/>
 📫 You can reach me at LinkedIn, Medium or via Email.
 
-<hr />
+
 
 
 <a href="https://www.linkedin.com/in/geethu-suresh-56b235130/">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+  <img align="right" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+</a>
+<a href="https://medium.com/@g33thusur3sh/">
+  <img align="right" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg"  />
 </a>
 <a href="mailto:geethusuresh1@gmail.com">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img align="right" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
 <br/>
+<hr />
 
 ### About Me 🚀
+<br/>
+
 💻 I’m a **Full-stack developer** with a bachelor's degree in Computer Science. </br> </br>
 👨🏼‍💻 I currently work as a  **.NET Consultant** at **Version 1** and I'm based out of Kerala, India. </br></br>
 💬 Feel more than welcome to contact me if you need any help or want to discuss any software development topic! </br></br>
