@@ -38,8 +38,8 @@ Here are some ideas to get you started:
 ### About Me 🚀
 <br/>
 
-💻 I’m a **Full-stack developer** with a bachelor's degree in Computer Science. </br> </br>
-👨🏼‍💻 I currently work as a  **.NET Consultant** at **Version 1** and I'm based out of Kerala, India. </br></br>
+💻 I’m a **Lead AI Engineer** with a bachelor's degree in Computer Science. </br> </br>
+👨🏼‍💻 I currently work as a  **AI innovation lead** at **Version 1** and I'm based out of UK. </br></br>
 💬 Feel more than welcome to contact me if you need any help or want to discuss any software development topic! </br></br>
    
  <b><i>"Code as if the next guy to maintain your code is a homicidal maniac who knows where you live." <br/>
